@@ -1,0 +1,56 @@
+<!-- Copyright 2023 Google LLC
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name"> EduBotmate</string>
+    <string name="action_go">Go</string>
+    <string name="action_try">chat</string>
+
+    <string name="welcome_message">EDU-BOT<br> personalised edubot to enhance and improve self-learning</br></string>
+    <string name="get_started">Get Started</string>
+
+    <!-- Menu strings -->
+    <string name="menu_summarize_title">Summarize Text</string>
+    <string name="menu_summarize_description">Give your input to summarize text</string>
+    <string name="menu_reason_title">Generate text from your image</string>
+    <string name="menu_reason_description">insert study-materials for image-captioning</string>
+    <string name="menu_chat_title">Study ChatBot </string>
+    <string name="menu_chat_description">Chat with the EDU-Bot for solutions</string>
+
+    <!-- Summarize sample strings -->
+    <string name="summarize_label">Text</string>
+    <string name="summarize_hint">Enter text to summarize</string>
+
+    <!-- Photo Reasoning sample strings -->
+    <string name="reason_label">Question</string>
+    <string name="reason_hint">Upload an image and then ask a question</string>
+    <string name="add_image">Add Image</string>
+
+    <!-- Chat sample strings -->
+    <string name="chat_label">Message</string>
+    <string name="action_send">Send</string>
+
+    <!-- New strings for voice recognition -->
+    <string name="menu_voice_recognition_title">Voice Recognition</string>
+    <string name="menu_voice_recognition_description">Recognize speech using voice.</string>
+    <string name="voice_recognition">Try</string>
+
+    <string name="menu_quiz_title">Quiz</string>
+    <string name="menu_quiz_description">Test your knowledge with a variety of questions.</string>
+    <string name="action_test">test</string>
+
+    <string name="menu_calendar_title">Calendar</string>
+    <string name="menu_calendar_description">Manage your important dates and assignments</string>
+
+</resources>
